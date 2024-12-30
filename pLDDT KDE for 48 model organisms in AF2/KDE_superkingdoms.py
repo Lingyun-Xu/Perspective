@@ -1,4 +1,5 @@
 #This file contains code for KDE of pLDDT distributions versus superkingdoms
+#Local file path: /home/lingyuncoding23/AF2_fasta/redo_PDB/extracted_AF2_model_organisms
 import seaborn as sns
 import matplotlib.pyplot as plt
 
